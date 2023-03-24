@@ -1,9 +1,7 @@
-name: JS Actions
-
+name: My first Javascript Action
 on:
   pull_request:
     types: [labeled]
-
 jobs:
   action:
     runs-on: ubuntu-latest

@@ -1,7 +1,6 @@
 name: npm test and build
 
-on:
-  push
+on: push
 
 jobs:
   build:

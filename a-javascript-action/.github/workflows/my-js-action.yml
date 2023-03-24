@@ -1,4 +1,4 @@
-name: JS Actions
+name: My first Javascript Action
 
 on:
   pull_request:

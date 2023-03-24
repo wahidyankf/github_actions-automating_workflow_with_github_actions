@@ -17,7 +17,7 @@ inputs:
     default: "Testesdapri"
   last-one-greeted:
     description: "the person greeted last"
-outputs:
+outputs: 
   last-one-greeted:
     description: "the person greeted last"
 runs:
