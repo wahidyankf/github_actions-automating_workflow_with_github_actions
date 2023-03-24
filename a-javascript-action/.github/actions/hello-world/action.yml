@@ -17,9 +17,9 @@ inputs:
     default: "Testesdapri"
   last-one-greeted:
     description: "the person greeted last"
-outputs: 
+outputs:
   last-one-greeted:
     description: "the person greeted last"
 runs:
-  using: "node12"
+  using: "node16"
   main: "index.js"
