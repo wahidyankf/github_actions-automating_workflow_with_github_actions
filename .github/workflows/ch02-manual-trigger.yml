@@ -1,4 +1,4 @@
-name: Chapter 02 - Manual Trigger Workflow
+name: Ch02 - Manual Trigger Workflow
 on:
   workflow_dispatch:
     inputs:
