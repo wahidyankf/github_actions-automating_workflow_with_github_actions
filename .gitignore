@@ -1,2 +1,2 @@
 node_modules
-# !.github/actions/hello-world/node_modules
+!.github/actions/hello-world/node_modules
