@@ -1,4 +1,4 @@
-name: How to manually trigger a workflow
+name: Chapter 02 - Manual Trigger Workflow
 on:
   workflow_dispatch:
     inputs:
