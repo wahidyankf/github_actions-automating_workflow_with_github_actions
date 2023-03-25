@@ -1,0 +1,14 @@
+name: A simple Docker action
+
+on:
+  issues:
+    types: [opened, edited, labeled]
+
+jobs:
+  user-and-time:
+    runs-on: self-hosted
+    name: Running a simple BASH script
+    steps:
+      - name: A simple BASH script
+        id: BASH
+        uses: wahidyankf/github_actions-automating_workflow_with_github_actions@main
